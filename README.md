@@ -7,7 +7,7 @@ A dedicated and passionate data scientist currently pursuing a Masters program i
   
 <h4> Skills </h4>
 
-<h5>
+<h4>
 
 -- Programming Languages: Python (NumPy, Pandas, Scikit-learn)
   
@@ -17,11 +17,11 @@ A dedicated and passionate data scientist currently pursuing a Masters program i
   
 -- Database and Query Languages: SQL, MySQL
   
--- Tools and Platforms: Jupyter Notebook, Git, GitHub </h5>
+-- Tools and Platforms: Jupyter Notebook, Git, GitHub </h4>
   
   <h4>Project Highlights </h4>
   
- <h5>
+ <h4>
 Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:
 
 Time Series Analysis: 
@@ -45,7 +45,7 @@ Thank you for visiting my GitHub profile!
 
 Best regards,
 Deepshikha
-</h5>
+</h4>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhaingithub&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhaingithub" /> </p>
 
