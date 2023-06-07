@@ -1,22 +1,8 @@
 <h1 align="center">Welcome to my GitHub profile! I'm Deepshikha</h1>
-<h3 align="center">About Me</h3>
+<h3 align="left">About Me</h3>
 <h4>
 A dedicated and passionate data scientist currently pursuing a Masters program in Data Science from Simplilearn. With a strong foundation in data analysis and machine learning, I have gained a comprehensive understanding of data science concepts, statistical analysis, machine learning algorithms, and data visualization techniques. This program has not only expanded my technical skills but has also instilled in me a strong analytical mindset to solve complex real-world problems.
   
-<img align="right" alt="DSimage" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
-
-**Project Highlights:**
-  
-Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:
-
-Time Series Analysis: Developed a time series Analysis model on HCLTech stock price dataset that helped in identifying trends, patterns, and potential future movements.
-
-Olympics Data Analysis: Conducted a comprehensive analysis of Olympic data spanning multiple editions of the Games, explore patterns in athlete performance, identify factors contributing to medal-winning performances, country-wise analysis etc.
-
-Book Recommendation System : Developed and implemented a collaborative filtering-based recommendation system for an online book platform. Leveraging user behavior and preferences, the system analyzed past interactions, such as ratings and reviews, to generate personalized book recommendations for users. The project aimed to enhance the user experience by providing relevant and tailored book suggestions, improving user engagement, and facilitating the discovery of new books, ultimately driving customer satisfaction and increasing book sales on the platform.
-
-These projects have allowed me to apply my knowledge in data preprocessing, feature engineering, model selection, and evaluation, demonstrating my ability to derive actionable insights and create valuable solutions using data-driven approaches.
-
 **Skills**
   
 Programming Languages: Python (NumPy, Pandas, Scikit-learn)
@@ -25,6 +11,23 @@ Data Visualization: Matplotlib, Seaborn, Tableau
 Database and Query Languages: SQL, MySQL
 Tools and Platforms: Jupyter Notebook, Git, GitHub
   
+<img align="right" alt="DSimage" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+  
+
+**Project Highlights:**
+  
+Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:
+
+**Time Series Analysis: **
+Developed a time series Analysis model on HCLTech stock price dataset that helped in identifying trends, patterns, and potential future movements.
+
+**Olympics Data Analysis: **
+Conducted a comprehensive analysis of Olympic data spanning multiple editions of the Games, explore patterns in athlete performance, identify factors contributing to medal-winning performances, country-wise analysis etc.
+
+**Book Recommendation System : **
+Developed and implemented a collaborative filtering-based recommendation system for an online book platform. Leveraging user behavior and preferences, the system analyzed past interactions, such as ratings and reviews, to generate personalized book recommendations for users.
+
+These projects have allowed me to apply my knowledge in data preprocessing, feature engineering, model selection, and evaluation, demonstrating my ability to derive actionable insights and create valuable solutions using data-driven approaches.  
 
 I am currently actively seeking job opportunities as a data scientist, where I can leverage my skills and expertise to tackle challenging problems and contribute to data-driven decision-making processes. I am eager to collaborate with like-minded professionals and make a positive impact through data science.
 
