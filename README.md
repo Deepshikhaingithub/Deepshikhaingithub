@@ -23,6 +23,7 @@ A dedicated and passionate data scientist currently pursuing a Masters program i
   
  <h4>
 Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:
+  
 
 Time Series Analysis: 
 Developed a time series Analysis model on HCLTech stock price dataset that helped in identifying trends, patterns, and potential future movements.
