@@ -2,8 +2,11 @@
 <h3 align="center">About Me</h3>
 <h4>
 A dedicated and passionate data scientist currently pursuing a Masters program in Data Science from Simplilearn. With a strong foundation in data analysis and machine learning, I have gained a comprehensive understanding of data science concepts, statistical analysis, machine learning algorithms, and data visualization techniques. This program has not only expanded my technical skills but has also instilled in me a strong analytical mindset to solve complex real-world problems.
+  
+<img align="right" alt="DSimage" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-Project Highlights
+**Project Highlights:**
+  
 Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:
 
 Time Series Analysis: Developed a time series Analysis model on HCLTech stock price dataset that helped in identifying trends, patterns, and potential future movements.
@@ -14,7 +17,8 @@ Book Recommendation System : Developed and implemented a collaborative filtering
 
 These projects have allowed me to apply my knowledge in data preprocessing, feature engineering, model selection, and evaluation, demonstrating my ability to derive actionable insights and create valuable solutions using data-driven approaches.
 
-Skills
+**Skills**
+  
 Programming Languages: Python (NumPy, Pandas, Scikit-learn)
 Machine Learning: Regression, Classification, Clustering
 Data Visualization: Matplotlib, Seaborn, Tableau
@@ -34,16 +38,7 @@ Best regards,
 Deepshikha
 </h4>
 
-<img align="right" alt="DSimage" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhaingithub&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhaingithub" /> </p>
-
-- 🔭 I’m currently a student of Simplilearn **and on the verge of completing Master's programe in Data Science**
-
-- 🌱 I’m currently learning **Machine Learning Algorithms and Data Analytics**
-
-- 💬 Ask me about **Machine Learning Algorithms & Data Analysis**
 
 - 📫 How to reach me **e.deepshikhadas@gmail.com**
 
