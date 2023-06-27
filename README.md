@@ -1,7 +1,10 @@
 <h1 align="center">Welcome to my GitHub profile! I'm Deepshikha</h1>
 <h3 align="left">About Me</h3>
 <h4>
-A dedicated and passionate data scientist currently pursuing a Masters program in Data Science from Simplilearn. With a strong foundation in data analysis and machine learning, I have gained a comprehensive understanding of data science concepts, statistical analysis, machine learning algorithms, and data visualization techniques. This program has not only expanded my technical skills but has also instilled in me a strong analytical mindset to solve complex real-world problems.</h4>
+A passionate and dedicated data science learner with a strong background in data analysis, machine learning, statistics, and SQL. Through my extensive learning journey, I have gained in-depth knowledge and hands-on experience in these areas. I have successfully completed a variety of projects, including data analysis, regression, classification, and time series analysis, which have equipped me with practical skills to tackle real-world challenges. Additionally, I have actively worked on projects involving SQL, enabling me to efficiently handle databases and extract valuable insights. </h4>
+
+<h4>
+I am currently seeking opportunities in the field of data science where I can leverage my skills and contribute to impactful solutions. With my passion for data-driven decision-making and continuous learning mindset, I am confident in my ability to make a positive impact as a data scientist. Let's connect and explore how we can collaborate to drive innovation through data-driven solutions!.</h4>
 
 <img align="right" alt="DSimage" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
   
@@ -22,22 +25,28 @@ A dedicated and passionate data scientist currently pursuing a Masters program i
   <h4>Project Highlights </h4>
   
  <h4>
-Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:
+Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:</h4>
   
-
+<h4>
 Time Series Analysis: 
-Developed a time series Analysis model on HCLTech stock price dataset that helped in identifying trends, patterns, and potential future movements.
+Developed a time series Analysis model on HCLTech stock price dataset that helped in identifying trends, patterns, and potential future movements.</h4>
 
+<h4>
 Olympics Data Analysis:
-Conducted a comprehensive analysis of Olympic data spanning multiple editions of the Games, explore patterns in athlete performance, identify factors contributing to medal-winning performances, country-wise analysis etc.
+Conducted a comprehensive analysis of Olympic data spanning multiple editions of the Games, explore patterns in athlete performance, identify factors contributing to medal-winning performances, country-wise analysis etc.</h4>
 
-Book Recommendation System : 
-Developed and implemented a collaborative filtering-based recommendation system for an online book platform. Leveraging user behavior and preferences, the system analyzed past interactions, such as ratings and reviews, to generate personalized book recommendations for users.
+<h4>
+Real Estate Price Prediction : 
+Developed a predictive model for Bengaluru house prices using linear regression, ridge regression, lasso regression, and XGBoost algorithms with an objective to accurately predict house prices based on various features and assess the performance of each model.</h4>
 
-These projects have allowed me to apply my knowledge in data preprocessing, feature engineering, model selection, and evaluation, demonstrating my ability to derive actionable insights and create valuable solutions using data-driven approaches.  
+<h4>
+AirCargo Analysis using SQL : 
+This project involved an analysis of an air cargo company's database, focusing on various aspects such as entity-relationship modeling, database querying, stored procedure creation, and data extraction for identifying the regular customers to provide offers, analyze the busiest route which helps to increase the number of aircraft required and prepare an analysis to determine the ticket sales details which will help the company to improve its operability and to become more customer-centric and a favorable choice for air travel.</h4>
 
-I am currently actively seeking job opportunities as a data scientist, where I can leverage my skills and expertise to tackle challenging problems and contribute to data-driven decision-making processes. I am eager to collaborate with like-minded professionals and make a positive impact through data science.
+<h4>
+These projects have allowed me to apply my knowledge in data preprocessing, feature engineering, model selection, and evaluation, demonstrating my ability to derive actionable insights and create valuable solutions using data-driven approaches. </h4>
 
+<h4>
 If you are interested in discussing potential collaborations, job opportunities, or have any questions, please feel free to reach out to me. Let's connect and explore the exciting possibilities in the field of data science!
 
 You can also find me on LinkedIn for more details about my experience and projects.
