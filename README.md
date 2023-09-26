@@ -14,13 +14,17 @@ I am currently seeking opportunities in the field of data science where I can le
 
 -- Programming Languages: Python (NumPy, Pandas, Scikit-learn)
   
--- Machine Learning: Regression, Classification, Clustering
+-- Machine Learning: Regression, Classification, Clustering, Artificial Neural Network and Deep Learning
   
 -- Data Visualization: Matplotlib, Seaborn, Tableau
   
 -- Database and Query Languages: SQL, MySQL
+
+-- AWS Services: EC2, S3, Sagemaker, Lambda
   
--- Tools and Platforms: Jupyter Notebook, Git, GitHub </h4>
+-- Tools and Platforms: Jupyter Notebook, Git, GitHub 
+
+-- Operating System: Windows, Linux, Unix </h4>
   
   <h4>Project Highlights </h4>
   
