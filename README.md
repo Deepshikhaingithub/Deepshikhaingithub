@@ -1,10 +1,15 @@
 <h1 align="center">Welcome to my GitHub profile! I'm Deepshikha</h1>
 <h3 align="left">About Me</h3>
 <h4>
-A passionate and dedicated data science learner with a strong background in data analysis, machine learning, statistics, and SQL. Through my extensive learning journey, I have gained in-depth knowledge and hands-on experience in these areas. I have successfully completed a variety of projects, including data analysis, regression, classification, and time series analysis, which have equipped me with practical skills to tackle real-world challenges. Additionally, I have actively worked on projects involving SQL, enabling me to efficiently handle databases and extract valuable insights. </h4>
+I am an accomplished Data Scientist with a robust foundation in data analysis, machine learning, statistics, and SQL. Recently, I successfully completed an intensive Masters program in Data Science, earning certification from Simplilearn. This educational journey has significantly augmented my knowledge and practical skills, empowering me to handle diverse aspects of data-driven challenges.
 
-<h4>
-I am currently seeking opportunities in the field of data science where I can leverage my skills and contribute to impactful solutions. With my passion for data-driven decision-making and continuous learning mindset, I am confident in my ability to make a positive impact as a data scientist. Let's connect and explore how we can collaborate to drive innovation through data-driven solutions!.</h4>
+Throughout my academic and practical experiences, I have engaged in a spectrum of projects encompassing data analysis, regression, classification, and time series analysis. My expertise extends to efficiently working with databases using SQL, allowing me to extract meaningful insights from complex datasets.
+
+Equipped with a holistic understanding of data science, I am eager to apply my acquired skill set in a dynamic professional environment. 
+
+My eagerness to contribute and make a positive impact through data-driven solutions is unwavering. I am actively seeking opportunities to apply my skills and knowledge in a collaborative and innovative organizational setting. Committed to continuous learning, I am ready to embark on new challenges and contribute meaningfully to the ever-evolving field of data science.
+
+Let's connect and explore how my diverse skill set can enhance your organization's data science initiatives, driving innovation and informed decision-making..</h4>
 
 <img align="right" alt="DSimage" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
   
@@ -14,13 +19,17 @@ I am currently seeking opportunities in the field of data science where I can le
 
 -- Programming Languages: Python (NumPy, Pandas, Scikit-learn)
   
--- Machine Learning: Regression, Classification, Clustering, Artificial Neural Network and Deep Learning
+-- Machine Learning: Regression, Classification, Clustering
+
+-- Artificial Neural Network and Deep Learning: ANN, RNN (LSTM), CNN
+
+-- Natural Language Processing (NLP)
   
 -- Data Visualization: Matplotlib, Seaborn, Tableau
   
 -- Database and Query Languages: SQL, MySQL
 
--- AWS Services: EC2, S3, Sagemaker, Lambda
+-- AWS Services: EC2, S3, Sagemaker
   
 -- Tools and Platforms: Jupyter Notebook, Git, GitHub 
 
