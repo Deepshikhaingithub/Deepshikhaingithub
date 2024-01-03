@@ -41,7 +41,7 @@ Let's connect and explore how my diverse skill set can enhance your organization
 Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:</h4>
 
 <h4>
-** Sentiment Analysis on Hotel Reviews: 
+## Sentiment Analysis on Hotel Reviews: 
   
 In this sentiment analysis project focused on hotel reviews, I successfully employed natural language processing (NLP) techniques to discern sentiments expressed by users. Beginning with thorough data preprocessing, including text cleaning and TF-IDF transformation, the dataset was transformed into numerical vectors. Leveraging logistic regression, the model achieved an impressive accuracy of 88% in classifying sentiments on the training dataset. Furthermore, the model's robustness was confirmed through evaluations on new, unseen reviews.</h4>
 
