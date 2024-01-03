@@ -39,6 +39,18 @@ Let's connect and explore how my diverse skill set can enhance your organization
   
  <h4>
 Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:</h4>
+
+<h4>
+Sentiment Analysis on Hotel Reviews: 
+In this sentiment analysis project focused on hotel reviews, I successfully employed natural language processing (NLP) techniques to discern sentiments expressed by users. Beginning with thorough data preprocessing, including text cleaning and TF-IDF transformation, the dataset was transformed into numerical vectors. Leveraging logistic regression, the model achieved an impressive accuracy of 88% in classifying sentiments on the training dataset. Furthermore, the model's robustness was confirmed through evaluations on new, unseen reviews.</h4>
+
+<h4>
+Contexual Word Prediction using LSTM: 
+In this project utilizing Long Short-Term Memory (LSTM) networks, I explored the realm of natural language processing (NLP) to predict the next word in a given sequence of text. Leveraging the power of recurrent neural networks, specifically LSTM, the model demonstrated a remarkable ability to capture contextual dependencies and generate contextually relevant predictions. The training process involved feeding the model with large text corpora, enabling it to learn patterns and relationships between words.</h4>
+
+<h4>
+Customer Churn Prediction using ANN (Tensorflow and Keras): 
+In my Customer Churn Prediction project, I harnessed the capabilities of Artificial Neural Networks (ANN) implemented with TensorFlow and Keras to predict and mitigate customer churn in a business setting. Leveraging the power of deep learning, the model was trained on historical customer data, enabling it to discern patterns indicative of potential churn.</h4>
   
 <h4>
 Time Series Analysis: 
