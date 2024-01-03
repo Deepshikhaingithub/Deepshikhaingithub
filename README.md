@@ -41,32 +41,38 @@ Let's connect and explore how my diverse skill set can enhance your organization
 Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:</h4>
 
 <h4>
-## Sentiment Analysis on Hotel Reviews: 
+# Sentiment Analysis on Hotel Reviews: 
   
 In this sentiment analysis project focused on hotel reviews, I successfully employed natural language processing (NLP) techniques to discern sentiments expressed by users. Beginning with thorough data preprocessing, including text cleaning and TF-IDF transformation, the dataset was transformed into numerical vectors. Leveraging logistic regression, the model achieved an impressive accuracy of 88% in classifying sentiments on the training dataset. Furthermore, the model's robustness was confirmed through evaluations on new, unseen reviews.</h4>
 
 <h4>
-Contexual Word Prediction using LSTM: 
+# Contexual Word Prediction using LSTM: 
+  
 In this project utilizing Long Short-Term Memory (LSTM) networks, I explored the realm of natural language processing (NLP) to predict the next word in a given sequence of text. Leveraging the power of recurrent neural networks, specifically LSTM, the model demonstrated a remarkable ability to capture contextual dependencies and generate contextually relevant predictions. The training process involved feeding the model with large text corpora, enabling it to learn patterns and relationships between words.</h4>
 
 <h4>
-Customer Churn Prediction using ANN (Tensorflow and Keras): 
+# Customer Churn Prediction using ANN (Tensorflow and Keras): 
+  
 In my Customer Churn Prediction project, I harnessed the capabilities of Artificial Neural Networks (ANN) implemented with TensorFlow and Keras to predict and mitigate customer churn in a business setting. Leveraging the power of deep learning, the model was trained on historical customer data, enabling it to discern patterns indicative of potential churn.</h4>
   
 <h4>
-Time Series Analysis: 
+# Time Series Analysis: 
+  
 Developed a time series Analysis model on HCLTech stock price dataset that helped in identifying trends, patterns, and potential future movements.</h4>
 
 <h4>
-Olympics Data Analysis:
+# Olympics Data Analysis:
+  
 Conducted a comprehensive analysis of Olympic data spanning multiple editions of the Games, explore patterns in athlete performance, identify factors contributing to medal-winning performances, country-wise analysis etc.</h4>
 
 <h4>
-Real Estate Price Prediction : 
+# Real Estate Price Prediction : 
+  
 Developed a predictive model for Bengaluru house prices using linear regression, ridge regression, lasso regression, and XGBoost algorithms with an objective to accurately predict house prices based on various features and assess the performance of each model.</h4>
 
 <h4>
-AirCargo Analysis using SQL : 
+# AirCargo Analysis using SQL : 
+  
 This project involved an analysis of an air cargo company's database, focusing on various aspects such as entity-relationship modeling, database querying, stored procedure creation, and data extraction for identifying the regular customers to provide offers, analyze the busiest route which helps to increase the number of aircraft required and prepare an analysis to determine the ticket sales details which will help the company to improve its operability and to become more customer-centric and a favorable choice for air travel.</h4>
 
 <h4>
