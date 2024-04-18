@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile! I'm Deepshikha</h1>
 <h3 align="left">About Me</h3>
 <h4>
-Skilled Data Scientist with a robust foundation in data analysis, machine learning, statistics, and SQL. Recently, I successfully completed an intensive Masters program in Data Science, earning certification from Simplilearn. This educational journey has significantly augmented my knowledge and practical skills, empowering me to handle diverse aspects of data-driven challenges.
+Aspiring and Skilled Data Analyst with a robust foundation in data analysis, machine learning, statistics, SQL, Data Visualization, Excel etc. Recently, I successfully completed an intensive Masters program in Data Science, earning certification from Simplilearn. This educational journey has significantly augmented my knowledge and practical skills, empowering me to handle diverse aspects of data-driven challenges.
 
 Throughout my academic and practical experiences, I have engaged in a spectrum of projects encompassing data analysis, regression, classification, and time series analysis. My expertise extends to efficiently working with databases using SQL, allowing me to extract meaningful insights from complex datasets.
 
