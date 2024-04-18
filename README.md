@@ -25,7 +25,7 @@ Let's connect and explore how my diverse skill set can enhance your organization
 
 -- Natural Language Processing (NLP)
   
--- Data Visualization: Matplotlib, Seaborn, Tableau
+-- Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
   
 -- Database and Query Languages: SQL, MySQL
 
@@ -38,45 +38,8 @@ Let's connect and explore how my diverse skill set can enhance your organization
   <h4>Project Highlights </h4>
   
  <h4>
-Throughout my academic journey, I have worked on various projects that have sharpened my data science skills. Some of the noteworthy projects include:</h4>
-
-<h4>
-# Sentiment Analysis on Hotel Reviews: 
-  
-In this sentiment analysis project focused on hotel reviews, I successfully employed natural language processing (NLP) techniques to discern sentiments expressed by users. Beginning with thorough data preprocessing, including text cleaning and TF-IDF transformation, the dataset was transformed into numerical vectors. Leveraging logistic regression, the model achieved an impressive accuracy of 88% in classifying sentiments on the training dataset. Furthermore, the model's robustness was confirmed through evaluations on new, unseen reviews.</h4>
-
-<h4>
-# Contexual Word Prediction using LSTM: 
-  
-In this project utilizing Long Short-Term Memory (LSTM) networks, I explored the realm of natural language processing (NLP) to predict the next word in a given sequence of text. Leveraging the power of recurrent neural networks, specifically LSTM, the model demonstrated a remarkable ability to capture contextual dependencies and generate contextually relevant predictions. The training process involved feeding the model with large text corpora, enabling it to learn patterns and relationships between words.</h4>
-
-<h4>
-# Customer Churn Prediction using ANN (Tensorflow and Keras): 
-  
-In my Customer Churn Prediction project, I harnessed the capabilities of Artificial Neural Networks (ANN) implemented with TensorFlow and Keras to predict and mitigate customer churn in a business setting. Leveraging the power of deep learning, the model was trained on historical customer data, enabling it to discern patterns indicative of potential churn.</h4>
-  
-<h4>
-# Time Series Analysis: 
-  
-Developed a time series Analysis model on HCLTech stock price dataset that helped in identifying trends, patterns, and potential future movements.</h4>
-
-<h4>
-# Olympics Data Analysis:
-  
-Conducted a comprehensive analysis of Olympic data spanning multiple editions of the Games, explore patterns in athlete performance, identify factors contributing to medal-winning performances, country-wise analysis etc.</h4>
-
-<h4>
-# Real Estate Price Prediction : 
-  
-Developed a predictive model for Bengaluru house prices using linear regression, ridge regression, lasso regression, and XGBoost algorithms with an objective to accurately predict house prices based on various features and assess the performance of each model.</h4>
-
-<h4>
-# AirCargo Analysis using SQL : 
-  
-This project involved an analysis of an air cargo company's database, focusing on various aspects such as entity-relationship modeling, database querying, stored procedure creation, and data extraction for identifying the regular customers to provide offers, analyze the busiest route which helps to increase the number of aircraft required and prepare an analysis to determine the ticket sales details which will help the company to improve its operability and to become more customer-centric and a favorable choice for air travel.</h4>
-
-<h4>
-These projects have allowed me to apply my knowledge in data preprocessing, feature engineering, model selection, and evaluation, demonstrating my ability to derive actionable insights and create valuable solutions using data-driven approaches. </h4>
+All the projects and analysis in details can be viewed on my repository
+ </h4>
 
 <h4>
 If you are interested in discussing potential collaborations, job opportunities, or have any questions, please feel free to reach out to me. Let's connect and explore the exciting possibilities in the field of data science!
@@ -91,7 +54,7 @@ Deepshikha
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhaingithub&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhaingithub" /> </p>
 
-- 📫 Reach me out @: e.deepshikhadas@gmail.com
+- 📫 Reach me out @: deepshikhadas0111@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
